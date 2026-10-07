@@ -8,10 +8,6 @@ Master's student in Information Systems at **L.N. Gumilyov Eurasian National Uni
 - Decision support under uncertainty (robust and stochastic optimization)
 - Business intelligence and analytics for management reporting
 
-## 📄 Publications
-
-- Zhaxalykov M. (2026). *Enterprise budget optimization: code for the master's thesis* (v1.0.0) [Software]. DOI: pending (Zenodo release)
-
 ## 🛠 Tools & methods
 
 Python · SciPy / HiGHS (linear programming) · pandas · SQL · Power BI / DAX · Dart · Flutter · Git
